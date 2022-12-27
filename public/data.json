@@ -1,0 +1,146 @@
+{
+    "data":[
+        {
+            "art_number": "101",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 1,
+                "name": "Lenovo"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/405/400"
+        },
+        {
+            "art_number": "102",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 2,
+                "name": "Acer"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/750/400"
+
+        },
+        {
+            "art_number": "103",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 1,
+                "name": "Lenovo"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/500/400"
+
+        },
+        {
+            "art_number": "104",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 3,
+                "name": "HP"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/570/400"
+        },
+        {
+            "art_number": "103",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 2,
+                "name": "Acer"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/700/400"
+        },
+        {
+            "art_number": "104",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 3,
+                "name": "HP"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/500/400"
+        },
+        {
+            "art_number": "104",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 3,
+                "name": "HP"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/570/400"
+        },
+        {
+            "art_number": "103",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 2,
+                "name": "Acer"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/700/400"
+        },
+        {
+            "art_number": "104",
+            "name":"Acer Aspire 5",
+            "brand": {
+                "id": 3,
+                "name": "HP"
+            },
+            "price": 1000,
+            "discount": 950,
+            "quantity": 5,
+            "weight": 1.5,
+            "in_stock": 20,
+            "image": "https://picsum.photos/500/400"
+        }
+    ],
+    "brands": [
+        {
+            "id": 1,
+            "name": "Lenovo"
+        },
+        {
+            "id": 2,
+            "name": "Acer"
+        },
+        {
+            "id": 3,
+            "name": "HP"
+        }
+    ]
+}
